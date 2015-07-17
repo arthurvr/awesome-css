@@ -92,6 +92,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [The Big Web Show](http://5by5.tv/bigwebshow/) - topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
+* [jQuery Podcast](http://podcast.jquery.com/) - If you’re familiar with jQuery (and you probably are), you know there’s a podcast to go with it.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
 
 ## Twitter
@@ -140,11 +141,16 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## Videos
 
-*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him on Twitter](https://twitter.com/sfota0805/status/527635856031375360). Thank you so much.*
+*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [1f579c5](https://github.com/AllThingsSmitty/must-watch-css/commit/1f579c545a58170f0be2a49efa650d1242e96251). [I told him on Twitter](https://twitter.com/sfota0805/status/527635856031375360). Thank you so much.*
 
 ###2015
 
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`
+1. [**PostCSS: The Future After Sass and LESS**](https://www.youtube.com/watch?v=1yUFTrAxTzg&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Andrey Sitnik, CSSConf.US `29:09`
+1. [**Your Very Own Component Library**](https://www.youtube.com/watch?v=zSYo7m5kGHQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Alex Sexton, JSConf.AR `20:03`
+1. [**Let's Move**](https://www.youtube.com/watch?v=J6wUmQDQBkw&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Benjamin De Cook, CSSConf.AU `24.52`
+1. [**Motion Design with CSS**](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Val Head, OpenVis Conf `29:39`
+1. [**Inline Styles Are About to Kill CSS**](https://www.youtube.com/watch?v=NoaxsCi13yQ&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Colin Megill, CSSConf.US
 
 
 ###2014
